@@ -1,3 +1,4 @@
 this is a test file.
 add a line one.
 add a line two.
+add a line three.
